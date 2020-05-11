@@ -1,4 +1,5 @@
-TeamCity to Jenkins :
+1.  TeamCity to Jenkins :
+
 	Migration Platform
 	Marketplace-Events
 	Marketplace E2E tests
@@ -11,27 +12,37 @@ TeamCity to Jenkins :
 	AppHelp Campaigns Non Standard
 	AppHelp Batch File Processor
 	Borg E2E Tests
-	Prometheus and Smoketest
+	
+2.  Swagger Dynamic Implementation
+    CX-API
+    MPA
+    Migration Platform
+
+3.  Logger issue
+    UCM (2 issue)
+    CX-API
+
+4.  Updated MP-Common library file for these repository
+    tps
+    borg
+    cx-ex
+    marketplace-blimp
+    apphelp-facilitator
+    marketplace-accounts
+    hub-integration
+    ucm
+    marketplace-events
+    cx-api
+    marketplace-bi
+    //TODO Update when done
+    Marketplace-Events (Pending)
+    Marketplace-Blimp (Pending)
+
+5.  Prometheus and Smoketest
 	cx-api
 	Marketplace-Accounts
-	Marketplace Users
-	CX-EX
-	
-Swagger Dynamic Implementation
-CX-API
-MPA
-Logger issue
-UCM (2 issue)
-CX-API
-Updated MP-Common library file for these repository
-tps
-borg
-cx-ex
-marketplace-blimp
-apphelp-facilitator
-marketplace-accounts
-hub-integration
-ucm
-marketplace-events
-cx-api
-marketplace-bi
+	Marketplace-Users
+    CX-EX
+    Migration-Platofrm (MPMIG)
+
+6. Added Slack Notification when a service goes down in Smoketest or Prometheus (Implemented Successfully)
